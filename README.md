@@ -1,2 +1,4 @@
 # inner-width-and-height-
-Window's innerwidth and height
+
+var width = window.innerWidth
+var height = window.innerHeight
